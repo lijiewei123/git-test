@@ -10,5 +10,6 @@ public class UserService {
         System.out.println("LiJieWei");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("你好");
     }
 }
