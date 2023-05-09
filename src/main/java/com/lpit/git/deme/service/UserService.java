@@ -9,5 +9,6 @@ public class UserService {
         System.out.println("master");
         System.out.println("LiJieWei");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
