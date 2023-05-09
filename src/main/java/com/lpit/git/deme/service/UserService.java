@@ -8,5 +8,6 @@ public class UserService {
         System.out.println("hello word3");
         System.out.println("master");
         System.out.println("LiJieWei");
+        System.out.println("push");
     }
 }
